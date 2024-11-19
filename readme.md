@@ -12,6 +12,11 @@
 <br/>
 
 <div align="center">
+<h2>See some exemples:</h2>
+  
+<br/>
+<br/>
+  
 <img src="https://i.ibb.co/TcHwjj3/Screenshot-2024-11-19-194441.png" alt="Usuário ganhando no jogo">
 <img src="https://i.ibb.co/TLmTZ7L/Screenshot-2024-11-19-194229.png" alt="Usuário perdendo no jogo">
 </div>
