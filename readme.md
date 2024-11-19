@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-<h2>See some exemples:</h2>
+<h2>See some examples:</h2>
   
 <br/>
 <br/>
